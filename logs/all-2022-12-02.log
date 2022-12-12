@@ -1,0 +1,7 @@
+[2022-12-02 16:46:31,276] [autoreload.py:598] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-02 21:47:52,539] [autoreload.py:598] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-02 21:48:15,059] [autoreload.py:598] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-02 22:55:05,217] [autoreload.py:598] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-02 22:56:12,536] [autoreload.py:598] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-02 22:56:47,180] [autoreload.py:222] [autoreload:trigger_reload] [INFO]- D:\workspace\All-TikTok-Projects\TikTokdjangoProject\TikTokBackEnd\settings.py changed, reloading.
+[2022-12-02 22:56:47,613] [autoreload.py:598] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
